@@ -1,0 +1,10 @@
+RStudio
+> TERMINAL
+
+Pobranie zmian:
+	Git pull
+
+Dodanie zmian:
+	Git add <nazwa pliku>
+	Git commit -m „jakas wiadomość”
+	Git push
